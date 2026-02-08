@@ -1,0 +1,123 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Sensitive Data (Do NOT commit)
+secrets/
+private/
+*.key
+*.pem
+*.p12
+*.pfx
+api_keys.txt
+credentials.txt
+passwords.txt
+config_secrets.yml
+
+# Malware Samples (Do NOT commit live samples)
+*.exe
+*.dll
+*.bin
+*.dat
+malware_samples/
+live_malware/
+
+# Large Files
+*.pcap
+*.cap
+*.dmp
+*.raw
+*.mem
+*.vmem
+*.evtx
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Documentation Build
+_build/
+_static/
+_templates/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node (if using any JS tools)
+node_modules/
+package-lock.json
+
+# Personal Notes
+PERSONAL_NOTES.md
+TODO_PRIVATE.md
+scratch/
+
+# Keep these folders but ignore their contents initially
+!.gitkeep
