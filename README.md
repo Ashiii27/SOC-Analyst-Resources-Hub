@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/SOC-Analyst-Resources?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/SOC-Analyst-Resources?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/SOC-Analyst-Resources)
+![GitHub stars](https://img.shields.io/github/stars/Ashiii27/SOC-Analyst-Resources-Hub?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ashiii27/SOC-Analyst-Resources-Hub?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ashiii27/SOC-Analyst-Resources-Hub)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **A comprehensive collection of tools, detection rules, challenges, writeups, and resources for Security Operations Center (SOC) Analysts**
